@@ -1,5 +1,5 @@
 # Basic-SpringBoot
-## Backend: [Basic-SpringBoot](https://github.com/SRUN-Sochettra/Basic-SpringBoot.git) + Frontend: [test-next](https://github.com/SRUN-Sochettra/test-next.git)
+## Backend: [Basic-SpringBoot](https://github.com/SRUN-Sochettra/spring-boot-basics.git) + Frontend: [test-next](https://github.com/SRUN-Sochettra/test-next.git)
 
 ## Tech Stack
 * **Language:** Java 17
